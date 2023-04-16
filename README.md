@@ -6,7 +6,7 @@ crackmes.one doesnt want to approve this crackme 8 day and im loading this on gi
 
 What you need to do:
 1) Deobfuscate this file
-2) Write wroking keygen
+2) Write keygen
 
 Protector: VMProtect
 
