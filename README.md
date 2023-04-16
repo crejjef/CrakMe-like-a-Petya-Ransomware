@@ -8,4 +8,6 @@ What you need to do:
 1) Deobfuscate this file
 2) Write wroking keygen
 
+Protector: VMProtect
+
 Good Luck!
